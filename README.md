@@ -12,6 +12,7 @@ An arduino based device will tell you the last time your pet was fed on an LCD s
 ## Repository strutcture
 
 |__ CatFeedingTime_Nano contains the arduino code
+
 |__ drawing contains Fritzing drawings of the circuit (breadboard and schematic)
 
 ## Device
