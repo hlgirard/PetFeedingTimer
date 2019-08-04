@@ -16,7 +16,7 @@ An arduino based device will tell you the last time your pet was fed on an LCD s
 |__ drawing contains Fritzing drawings of the circuit (breadboard and schematic)
 
 ## Device
-
+![Picture of device](https://github.com/hlgirard/PetFeedingTimer/blob/master/drawing/picture.jpg)
 ![Model of device](https://github.com/hlgirard/PetFeedingTimer/blob/master/drawing/CatFeedingInfo_Nano_bb.jpg)
 
 ## Usage
