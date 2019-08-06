@@ -17,7 +17,6 @@ An arduino based device will tell you the last time your pet was fed on an LCD s
 
 ## Device
 ![Picture of device](https://github.com/hlgirard/PetFeedingTimer/blob/master/drawing/picture.jpg)
-![Model of device](https://github.com/hlgirard/PetFeedingTimer/blob/master/drawing/CatFeedingInfo_Nano_bb.jpg)
 
 ## Usage
 
